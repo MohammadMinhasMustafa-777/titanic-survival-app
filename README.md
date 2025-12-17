@@ -1,4 +1,4 @@
 # titanic-survival-app
 Titanic survival predictor with Flask + Render deployment
 
-Titanic survival app through flask is basically about making prediction regarding the fact that which passenger survived and who did not. The train data was downloaded from kaggle and then random forest model with hyperparameters was trained on training data through GridSearch CV with 5 folds. Predictions are then made via best trained model by hel[ping user with the facility of flask app. Render helped create a url through which anyone can go and give it a shot by entering some user inputs.
+The Titanic Survival App built with Flask is designed to predict whether a passenger survived or not. The training dataset was sourced from Kaggle, and a Random Forest model was optimized using GridSearchCV with 5-fold cross-validation. Once the best model was selected, predictions are served through the Flask application, allowing users to input passenger details and receive survival predictions. Deployment was handled via Render, which generated a public URL so anyone can access the app and test it with their own inputs.
