@@ -1,0 +1,22 @@
+# Jupyter Notebooks
+*.ipynb
+
+# Checkpoints (Jupyter saves these)
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.xlsx
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Temporary files
+tempCodeRunnerFile.py
+test_code.ipynb
