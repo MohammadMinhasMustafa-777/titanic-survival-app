@@ -6,7 +6,7 @@ import io
 import base64
 
 app = Flask(__name__)
-model = load_model('best_mnist_model')
+model = load_model('best_mnist_model.keras')
 
 @app.route('/')
 def index():
