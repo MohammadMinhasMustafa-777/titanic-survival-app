@@ -1,0 +1,7 @@
+Flask
+tensorflow>=2.16
+Pillow
+numpy
+gunicorn
+huggingface_hub
+keras
